@@ -14,7 +14,6 @@ I am very fortunate to be advised by [Prof. Jiannong Cao](https://www.XXX.com/) 
 You can find my CV here: [Jialun Zheng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 [Email](mailto:22069255r@connect.polyu.hk) / [Github](https://github.com/Jackmeory) / 
-————————————————
 
 
 

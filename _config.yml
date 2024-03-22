@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Jialun Zheng.png"
   name             : "Jialun Zheng"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD students from IMCL Lab, Polyu, HKSAR, CHina"
+  pronouns         : # example: "he/his"  
+  bio              : "IMCLer"
   location         : "Hong Kong SAR, China"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "https://github.com/"
 
   # Social media
   steam            : # Username

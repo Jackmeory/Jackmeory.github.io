@@ -22,3 +22,8 @@ Publications
 ======
 2024
 ======
+* Inductive Spatial Temporal Prediction Under Data Drift with Informative Graph Neural Network
+
+  **Jialun Zheng**, Divya Saxena, Jiannong Cao, Hanchen Yang, Penghui Ruan
+
+  Database Systems for Advanced Applications(**DASFAA**)(**CCF-B**)
